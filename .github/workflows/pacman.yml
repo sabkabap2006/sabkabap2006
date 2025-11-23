@@ -1,0 +1,26 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily
+  workflow_dispatch:     # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Pac-Man graph
+        uses: maurodesouza/github-contribution-pacman@main
+        with:
+          github_user: sabkabap2006
+          output_path: output
+          
+      - name: Commit files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add output/*
+          git commit -m "Update Pac-Man graph" || echo "No changes to commit"
+          git push
