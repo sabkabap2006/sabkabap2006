@@ -10,10 +10,8 @@ I am currently pursuing B.Tech in computer science and a tech enthusiast. I am a
 * ✉️  You can contact me at [sayantanpal2006741201@gmail.com](mailto:sayantanpal2006741201@gmail.com)
 * 🧠  I'm currently learning Vue.js
 * 👥  I'm looking to collaborate on UI/UX Frontend backend
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+* <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 
 <p align="left">
@@ -34,3 +32,4 @@ src="https://img.shields.io/github/followers/sabkabap2006?logo=github&style=for-
 <a href="http://www.github.com/sabkabap2006"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabkabap2006&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sabkabap2006" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabkabap2006&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
