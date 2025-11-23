@@ -11,6 +11,10 @@ I am currently pursuing B.Tech in computer science and a tech enthusiast. I am a
 * 🧠  I'm currently learning Vue.js
 * 👥  I'm looking to collaborate on UI/UX Frontend backend
 * <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sabkabap2006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sabkabap2006&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
 
