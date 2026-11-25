@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science & Engineering student at **Meghnad Saha Institute of Technology**.
+- 🎓 Computer Science & Engineering student.
 - 💻 Full-Stack Developer working with **React, Next.js, JavaScript, Python and Django**.
 - 🎨 UI/UX enthusiast who enjoys building polished, responsive and accessible interfaces.
 - 🤖 Exploring AI/ML and AI-powered application development.
