@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="assets/bat.gif" width="100%" alt="Batman animated GIF"/>
+<img src="bat.gif" width="100%" alt="Batman animated GIF"/>
 
 <br/>
 
