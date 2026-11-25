@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> <img src="banner.svg" width="100%" alt="Sayantan Pal banner"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:123b52,100:00b4d8&height=210&section=header&text=Sayantan%20Pal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Profile header"/>
 
