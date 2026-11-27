@@ -126,8 +126,8 @@ TakeUForward profile: [brocoder2006](https://takeuforward.org/profile/brocoder20
 
 <div align="center">
 
-<img height="165" src="https://YOUR-PROJECT.vercel.app/api?username=sabkabap2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sabkabap2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
 
