@@ -126,8 +126,13 @@ TakeUForward profile: [brocoder2006](https://takeuforward.org/profile/brocoder20
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabkabap2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="49%" src="https://raw.githubusercontent.com/sabkabap2006/sabkabap2006/main/profile-summary-card-output/monokai/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="https://raw.githubusercontent.com/sabkabap2006/sabkabap2006/main/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="Most committed languages"/>
+
+<br/>
+
+<img width="49%" src="https://raw.githubusercontent.com/sabkabap2006/sabkabap2006/main/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="Repos per language"/>
+<img width="49%" src="https://raw.githubusercontent.com/sabkabap2006/sabkabap2006/main/profile-summary-card-output/monokai/4-productive-time.svg" alt="Productive time"/>
 
 <br/>
 
