@@ -122,24 +122,50 @@ TakeUForward profile: [brocoder2006](https://takeuforward.org/profile/brocoder20
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/sabkabap2006">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=sabkabap2006&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=sabkabap2006&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=sabkabap2006&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+</picture>
+</a>
+<a href="https://github.com/sabkabap2006">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sabkabap2006&theme=dark&hide_border=true&background=0D1117" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sabkabap2006&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sabkabap2006&theme=default&hide_border=true" width="48%" alt="GitHub Streak" />
+</picture>
+</a>
+</p>
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sabkabap2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+---
 
-<br/>
+## 💻 Most Used Languages
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sabkabap2006&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabkabap2006&layout=compact&theme=default&hide_border=true" style="max-width: 500px; width: 60%;" alt="Top Languages" />
+</picture>
+</p>
 
-</div>
+---
+
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=sabkabap2006&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=sabkabap2006&theme=flat&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sabkabap2006&theme=flat&row=1&column=7&margin-w=15&margin-h=15" width="100%" style="max-width: 900px;" alt="GitHub Trophies" />
+</picture>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabkabap2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub trophies"/>
 
 </div>
 
