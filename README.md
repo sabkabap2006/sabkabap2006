@@ -139,7 +139,6 @@ TakeUForward profile: [brocoder2006](https://takeuforward.org/profile/brocoder20
 <img width="70%" src="https://streak-stats.demolab.com?user=sabkabap2006&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
